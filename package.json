@@ -1,6 +1,6 @@
 {
-  "name": "supabase-management-js",
-  "version": "1.0.0",
+  "name": "@code-fighter/supabase-management-js",
+  "version": "1.0.1",
   "description": "Convenience wrapper for the Supabase Management API",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -46,5 +46,11 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uglyswap/supabase-management-js.git"
+  },
+  "author": "Code Fighter",
+  "license": "MIT"
 }
