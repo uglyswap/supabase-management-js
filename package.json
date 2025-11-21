@@ -1,5 +1,5 @@
 {
-  "name": "@code-fighter/supabase-management-js",
+  "name": "@uglyswap/supabase-management-js",
   "version": "1.0.1",
   "description": "Convenience wrapper for the Supabase Management API",
   "main": "./dist/index.js",
@@ -51,6 +51,6 @@
     "type": "git",
     "url": "https://github.com/uglyswap/supabase-management-js.git"
   },
-  "author": "Code Fighter",
+  "author": "uglyswap",
   "license": "MIT"
 }
